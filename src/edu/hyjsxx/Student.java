@@ -9,4 +9,6 @@ package edu.hyjsxx;
  * @Version 2.01
  */
 public class Student {
+    private int age;
+    private String name;
 }
