@@ -1,12 +1,15 @@
+package deu.hyjsxx;
+
 /**
  * This program display an XML document as a tree in JSON format
  *
  * @auther Zhukeming
- * @Data: 2022 - 05 - 16 - 15:56
- * @Description: PACKAGE_NAME
+ * @Data: 2022 - 05 - 17 - 8:51
+ * @Description: deu.hyjsxx
  * @Version 2.01
  */
-public class Person {
+public class Student {
     private int age;
     private String name;
+
 }
